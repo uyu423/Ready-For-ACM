@@ -1,4 +1,5 @@
 출처 : http://blog.outsider.ne.kr/572
+기초 사용법 정리 잘된 사이트 : http://rogerdudler.github.io/git-guide/index.ko.html
 
 git 기본 명령어
 
