@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main() {
 
@@ -8,6 +8,7 @@ int main() {
 	scanf("%d", &max);
 
 	while(max--) {
+		//주석?
 		scanf("%s", tmp);
 		printf( "Hello, %s!\n", tmp);
 	}
